@@ -1,0 +1,53 @@
+.face {
+    width: 100px;
+    height: 100px;
+    background: grey;
+    border-radius: 50%;
+    margin-left: 100px;
+    position: absolute;
+  }
+.ear-right{
+    width: 50px;
+    height: 50px;
+    background: grey;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 90px;
+}
+
+.ear-left{
+    width: 50px;
+    height: 50px;
+    background: grey;
+    border-radius: 50%;
+    position:absolute;
+    margin-left: 160px;
+}
+.inner-ear{
+       width: 40px;
+    height: 40px;
+    background: darkgray;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.eye-left{
+    width: 10px;
+    height: 10px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.eye-right{
+   width: 10px;
+    height: 10px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 155px;
+}
+
